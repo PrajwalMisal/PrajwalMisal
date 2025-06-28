@@ -1,27 +1,78 @@
-<h1 align="center">Hi 👋, I'm Prajwal Misal</h1>
-<h3 align="center">"A passionate Data Science Engineer from India, dedicated to leveraging data-driven solutions to solve real-world problems."</h3>
+# 👋 Hello, I'm Prajwal Misal!
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+🎓 **Aspiring Data Scientist | Data Analyst **  
+🔍 Passionate about extracting insights from data, building intelligent systems, and solving real-world problems using Machine Learning and Analytics.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalmisal&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmisal" /> </p>
+---
 
-- Completed [Online SalonFinder Website(Online Booking system)](https://salonmaster.rf.gd)
+## 🎯 Career Objective
+To apply my data science and analytical skills to solve complex business problems, work on impactful projects, and grow into a leadership role in the tech and data industry.
 
-- Completed [customer churn prediction](https://colab.research.google.com/drive/1oj10OFepWNm9B6a1CeZK512pwADlwkLF#scrollTo=b7aced20)
+---
 
-- 📫 How to reach me **prajwalmisal25@gmail.com**
+## 💻 Technical Skills
+- **Languages:** Python,SQL
+- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Data Visualization:** Power BI, Tableau, Matplotlib  
+- **Tools:** Jupyter Notebook, Google Colab, Git, VS Code  
+- **Databases:** MySQL, MongoDB  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prajwal misal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal misal" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📚 Education
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalmisal&show_icons=true&locale=en&layout=compact" alt="prajwalmisal" /></p>
+| Degree | Institution | University/Board | Year | Marks/CGPA |
+|--------|-------------|------------------|------|------------|
+| B.Tech (AI & DS) | Fabtech technical Campus Sangola | Dr. BATU, Lonere | 2025 | Pursing |
+| Diploma | Sharad institute of technology polytechnic Yadrav| MSBTE | 2022 | 72.63% |
+| SSC | Ghosarwad Highschool Ghosarwad | Maharashtra State Board | 2018 | 80.60% |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalmisal&show_icons=true&locale=en" alt="prajwalmisal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalmisal&" alt="prajwalmisal" /></p>
+## 🚀 Projects
+
+### 📈 Customer Churn Detection  
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
+**Description:** Built a machine learning model to predict customer churn based on behavioral and demographic data.
+
+### 🏘 Real Estate Price Prediction Dataset Analysis  
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Description:**  
+Performed exploratory data analysis and built regression models to predict housing prices based on factors such as location, square footage, number of bedrooms, and more. Implemented Linear Regression and Random Forest to compare model accuracy and used data visualization to uncover key insights from the dataset.
+
+### 📱 Spam SMS Classification  
+**Tech Stack:** Python, Pandas, Scikit-learn, NLTK, CountVectorizer, Naive Bayes  
+**Description:**  
+Built a machine learning model to classify SMS messages as spam or ham using Natural Language Processing techniques. Applied text preprocessing (tokenization, stopword removal), feature extraction (Bag of Words), and trained a Naive Bayes classifier to achieve high accuracy in spam detection.
+
+### 💳 Credit Card Transaction Analysis  
+**Tools Used:** Power BI, SQL  
+**Description:**  
+Analyzed credit card transactions to identify spending patterns, peak hours, and fraud indicators. Built interactive dashboards with drill-through and slicers for insightful reporting.
+
+---
+
+## 🏆 Achievements
+- 🎓 Certified in Data Science – PrepInsta
+- 📊 Office Master on Power BI – Microsoft
+---
+
+## ⚡ Interests
+- Data Analytics & Business Intelligence 📊  
+-  🏏 Cricket | Online Gaming 🎮 |   
+- Web Series  🎥  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [prajwalmisal25@gmail.com](mailto:prajwalmisal25@gmail.com)  
+- 🔗 [LinkedIn – Prajwal Misal](https://www.linkedin.com/in/prajwal-misal-750445290)  
+- 💻 [GitHub – PrajwalMisal](https://github.com/PrajwalMisal)
+- 
+
+
+---
+
+> 💡 *"Transforming raw data into real value through curiosity, code, and creativity."*
 
