@@ -67,9 +67,10 @@ Analyzed credit card transactions to identify spending patterns, peak hours, and
 ## 📫 Connect With Me
 
 - 📧 Email: [prajwalmisal25@gmail.com](mailto:prajwalmisal25@gmail.com)  
-- 🔗 [LinkedIn – Prajwal Misal](https://www.linkedin.com/in/prajwal-misal-750445290)  
-- 💻 [GitHub – PrajwalMisal](https://github.com/PrajwalMisal)
-- 
+- 🔗 [LinkedIn – [Prajwal Misal](https://www.linkedin.com/in/prajwal-misal-750445290)  
+- 💻 [GitHub – [PrajwalMisal](https://github.com/PrajwalMisal)  
+- 📄 [Resume – [View/Download](https://drive.google.com/file/d/19xot0iqLrxvNOfx1WtjXYTC43nnXQNG4/view)
+
 
 
 ---
