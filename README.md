@@ -23,7 +23,7 @@ To apply my data science and analytical skills to solve complex business problem
 
 | Degree | Institution | University/Board | Year | Marks/CGPA |
 |--------|-------------|------------------|------|------------|
-| B.Tech (AI & DS) | Fabtech technical Campus Sangola | Dr. BATU, Lonere | 2025 | Pursing |
+| B.Tech (AI & DS) | Fabtech technical Campus Sangola | Dr. BATU, Lonere | 2025 | 8.27 cgpa / 77.30% |
 | Diploma | Sharad institute of technology polytechnic Yadrav| MSBTE | 2022 | 72.63% |
 | SSC | Ghosarwad Highschool Ghosarwad | Maharashtra State Board | 2018 | 80.60% |
 
