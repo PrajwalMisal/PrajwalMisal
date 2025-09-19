@@ -40,10 +40,6 @@ To apply my data science and analytical skills to solve complex business problem
 **Description:**  
 Performed exploratory data analysis and built regression models to predict housing prices based on factors such as location, square footage, number of bedrooms, and more. Implemented Linear Regression and Random Forest to compare model accuracy and used data visualization to uncover key insights from the dataset.
 
-### 📱 Spam SMS Classification  
-**Tech Stack:** Python, Pandas, Scikit-learn, NLTK, CountVectorizer, Naive Bayes  
-**Description:**  
-Built a machine learning model to classify SMS messages as spam or ham using Natural Language Processing techniques. Applied text preprocessing (tokenization, stopword removal), feature extraction (Bag of Words), and trained a Naive Bayes classifier to achieve high accuracy in spam detection.
 
 ### 💳 Credit Card Transaction Analysis  
 **Tools Used:** Power BI, SQL  
